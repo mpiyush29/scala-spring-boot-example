@@ -1,4 +1,4 @@
-package spring.boot.scala.example.controller
+package com.github.mpiyush29.scalaspringbootexample.controller
 
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Test
@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest
 import org.springframework.boot.test.context.SpringBootTest.WebEnvironment
 import org.springframework.boot.test.web.client.TestRestTemplate
 import org.springframework.boot.web.server.LocalServerPort
-import spring.boot.scala.example.controller.RootController
+import com.github.mpiyush29.scalaspringbootexample.controller.RootController
 
 class RootControllerTest extends BaseAppTest :
   @Autowired

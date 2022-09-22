@@ -1,4 +1,4 @@
-# %NAME% Changelog
+# scala-spring-boot-example Changelog
 
 ## [Unreleased]
 

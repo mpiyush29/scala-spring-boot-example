@@ -1,4 +1,4 @@
-IMAGE_NAME:=jecklgamis/spring-boot-scala-example
+IMAGE_NAME:=mpiyush29/scala-spring-boot-example
 IMAGE_TAG:=latest
 
 default:

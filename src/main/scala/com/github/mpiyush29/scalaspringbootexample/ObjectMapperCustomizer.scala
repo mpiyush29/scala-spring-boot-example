@@ -1,4 +1,4 @@
-package spring.boot.scala.example
+package com.github.mpiyush29.scalaspringbootexample
 
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule
 import com.fasterxml.jackson.module.scala.DefaultScalaModule
